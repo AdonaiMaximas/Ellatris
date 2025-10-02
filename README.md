@@ -2,7 +2,7 @@
 
 **Минималистичная игра вдохновленная тетрисом для ментальной разгрузки**
 
-![Version](https://img.shields.io/badge/version-0.0.1.3%20beta-blue)
+![Version](https://img.shields.io/badge/version-0.0.1.4%20beta_release-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
@@ -88,7 +88,7 @@ Ellatris следует принципам **Чистого Программн�
 
 **Вариант 1: Скачать исполняемый файл (Windows)**
 
-- Скачайте `.exe` файл: [ссылка]
+- Скачайте `.exe` файл: [[ссылка](https://github.com/AdonaiMaximas/Ellatris/blob/main/ELLATRIS.exe)]
 
 **ИЛИ:**
 
@@ -98,7 +98,7 @@ Ellatris следует принципам **Чистого Программн�
 ```bash
 
 # Клонируйте репозиторий
-git clone https://github.com/your-username/ellatris.git
+git clone https://github.com/AdonaiMaximas/ellatris.git
 
 # Установите зависимости
 pip install pygame
@@ -201,14 +201,14 @@ The game uses completely original:
 ## 🛠️ Installation & Requirements
 
 **Option 1: Download Executable (Windows)**
-- Download the `.exe` file: [link]
+- Download the `.exe` file: [[link](https://github.com/AdonaiMaximas/Ellatris/blob/main/ELLATRIS.exe)]
 
 **OR:**
 
 **Option 2: Run from Source**
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ellatris.git
+git clone https://github.com/AdonaiMaximas/ellatris.git
 
 # Install dependencies
 pip install pygame
