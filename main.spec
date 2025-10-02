@@ -12,7 +12,7 @@ a = Analysis(
         ('tetramino.py', '.'),
         ('constants.py', '.'),
         ('menu.py', '.'),
-        ('tetris_stats.json', '.'),
+        ('ellatris_stats.json', '.'),
         ('icon.png', '.')
     ],
     hiddenimports=[],
